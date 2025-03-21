@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+nltk
+sentence-transformers
+scikit-learn
+lexrank
